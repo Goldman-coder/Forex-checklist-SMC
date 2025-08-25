@@ -7,10 +7,11 @@ document.addEventListener('DOMContentLoaded', function() {
             items: [
                 "Identify the overall trend using the 1D time frame",
                 "Check if the market is retracing on the 1D and identify if it's  currently on the third touch of a trend line or fib zone",
-                "Then check out the 4THtrend and chart pattern ",
+                "Then check out the 4H trend and chart pattern ",
+                "Mark out the 4H major SNR",
                 "Check if the market is retrancing on the 4th and identify if it's on the third touch of a trend line or fib zone ",
                 "Check out the 1H trend and chart patterns ",
-                "Check if the market  is retrancing on the 1h and identify if it's currently in a third touch of a trend line or fib zone "
+                "Check if the market  is retrancing on the 1h and identify if it's currently on third touch of a trend line or fib zone "
             ]
         },
         // {
